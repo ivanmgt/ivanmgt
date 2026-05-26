@@ -27,8 +27,11 @@ Full codebase documented in English
 ## 📐 Background
 
 Physics — Strong foundations in linear algebra, calculus, probability theory, and statistical inference
+
 Scientific Computing — HPC cluster experience with SLURM job scheduling in research environments
+
 ML Engineering — Currently specializing in production deployment: FastAPI, Docker, Pydantic, pytest
+
 ---
 ## Contact
 - 📧 marioivantorres132@gmail.com
