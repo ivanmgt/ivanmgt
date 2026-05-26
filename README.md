@@ -1,4 +1,4 @@
-# Hi am Ivan Torres
+# Hi I am Ivan Torres
 
 Physicist| Machine Learning Engineer | Data Scientist | Data Analyst
 
