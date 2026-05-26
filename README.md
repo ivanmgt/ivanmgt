@@ -32,5 +32,5 @@ ML Engineering — Currently specializing in production deployment: FastAPI, Doc
 ---
 ## Contact
 - 📧 marioivantorres132@gmail.com
-- 💼 LinkedIn
+- 💼 LinkedIn 
 - 🐙 github.com/ivanmgt
